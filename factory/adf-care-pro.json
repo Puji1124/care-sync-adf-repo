@@ -1,0 +1,15 @@
+{
+	"name": "adf-care-pro",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f92cf3c4-3d74-487b-81f4-60f5d0c3add4",
+		"tenantId": "b8ae9bcd-250c-4c13-ad72-47f8968bd837"
+	}
+}
